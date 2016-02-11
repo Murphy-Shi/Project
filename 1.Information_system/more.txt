@@ -1,0 +1,5 @@
+ B00021     Shanghai     Beijing     10:25         16:55         168   
+ A00022     Guangzhou    Shanghai    9:55          10:55         552   
+                                                                 0     
+ A00022     Guangzhou    Shanghai    9:55          10:55         552   
+ B00021     Shanghai     Beijing     10:25         16:55         168   
